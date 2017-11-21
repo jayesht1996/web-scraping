@@ -1,5 +1,6 @@
 Install following things:-
 BeautifulSoup
+selenium
 xlsxwriter
 xlrd
 
